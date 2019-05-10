@@ -8,7 +8,7 @@ This is the third project for [Front-End Nanodegree](https://www.udacity.com/cou
 3. Have fun!
 
 ## Take a look
-You can take a look and have fun [here](https://codeselfceo.github.io/udacity-arcade-game-project/)!
+You can take a look and have fun [here](https://luisperezcr.github.io/udacity-arcade-game-project/)!
 
 ## Technologies used
 * HTML
